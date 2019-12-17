@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/awesome-starcraft2ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/docker-netbeans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/docker-starcraft2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/pymarl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/pysc2-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspiration/s2client-docker" vcs="Git" />
+  </component>
+</project>

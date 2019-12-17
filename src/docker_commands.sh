@@ -1,0 +1,1 @@
+docker run -it -v //c/Users/Thibaud/Desktop/Leisure/starcraft_bot:/home/nsml/app -e DISPLAY=unix$DISPLAY --net=host --name starcraft sc2_env:dev

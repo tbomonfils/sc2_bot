@@ -1,0 +1,25 @@
+[32m[I 10:18:37.440 NotebookApp](B[m Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[32m[I 10:18:37.830 NotebookApp](B[m Serving notebooks from local directory: /root
+[32m[I 10:18:37.830 NotebookApp](B[m The Jupyter Notebook is running at:
+[32m[I 10:18:37.831 NotebookApp](B[m http://(edf69d1d8a7e or 127.0.0.1):8888/?token=bb5de6ac3154a558952ac84763bf9312edc804ec3cf387fc
+[32m[I 10:18:37.831 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:18:37.866 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-1-open.html
+    Or copy and paste one of these URLs:
+        http://(edf69d1d8a7e or 127.0.0.1):8888/?token=bb5de6ac3154a558952ac84763bf9312edc804ec3cf387fc
+^C[32m[I 10:19:02.794 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /root
+0 active kernels
+The Jupyter Notebook is running at:
+http://(edf69d1d8a7e or 127.0.0.1):8888/?token=bb5de6ac3154a558952ac84763bf9312edc804ec3cf387fc
+Shutdown this notebook server (y/[n])? lsNo answer for 5s: resuming operation...
+
+^C[32m[I 10:19:43.352 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /root
+0 active kernels
+The Jupyter Notebook is running at:
+http://(edf69d1d8a7e or 127.0.0.1):8888/?token=bb5de6ac3154a558952ac84763bf9312edc804ec3cf387fc
+Shutdown this notebook server (y/[n])? ^C[C 10:19:43.527 NotebookApp] received signal 2, stopping
+[32m[I 10:19:43.531 NotebookApp](B[m Shutting down 0 kernels

@@ -1,0 +1,4 @@
+host_path=//c/Users/Thibaud/Desktop/Leisure/starcraft_bot
+docker_path=/home/AI_core/app
+docker_name=sc2_linux_env
+docker_tag=dev_service_layer

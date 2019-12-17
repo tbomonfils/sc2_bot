@@ -1,0 +1,1 @@
+docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v //c/Users/Thibaud/Desktop/Leisure/starcraft_bot:/home/nsml/app -e DISPLAY=unix$DISPLAY --net=host --name sc2 sc2_env:dev

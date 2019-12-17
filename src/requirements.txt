@@ -1,0 +1,16 @@
+absl-py
+cloudpickle
+dill
+future
+h5py
+ipywidgets
+ipykernel
+jupyter
+git+https://github.com/deepmind/pysc2
+git+https://github.com/openai/baselines
+mpi4py
+numpy
+pandas
+Pillow
+requests
+tensorflow==2.0
